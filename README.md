@@ -8,9 +8,13 @@
 
 ## [描述](https://github.com/SoCXin/MM32L051/wiki)
 
-[MM32L051](https://github.com/SoCXin/MM32L051)具有丰富的通信接口和功能，包括AES
+[MM32L051](https://github.com/SoCXin/MM32L051)具有丰富的功能和通信接口，包括AES、ADC
 
 [![sites](docs/MM32L051.png)](https://github.com/SoCXin/MM32L051)
+
+AES 硬件加速器使用 AES 算法可以对数据进行加密和解密。由 FIPS 定义 (FIPS PUB 197， 2001 November 26) 的高级加密标准 (AES) 加速器使用 128bit 或 192bit 或 256bit 密钥加密和解密 128bit 的数据块。默认情况下，电子密码本 (ECB) 被选中。密码分组链接 (CBC)、计算器模式 (CTR)、密文反馈模式 (CFB) 和输出反馈模式 (OFB) 也被该硬件支持。
+
+AES支持输入和输出数据的DMA传输(需要2个DMA通道)。
 
 ### [资源收录](https://github.com/SoCXin/MM32L051)
 
@@ -19,6 +23,10 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-[MM32L051](https://github.com/SoCXin/MM32L051)
+设备具备AES加密单元，便于物联网数据安全落地
+
+* [MM32L051](https://github.com/SoCXin/MM32L051)偏向低成本采集控制设备,串口通信
+* [MM32L062](https://github.com/SoCXin/MM32L062)偏向USB等高效率配置设备
+* [MM32L073](https://github.com/SoCXin/MM32L073)偏向CAN控制网关类产品
 
 ###  [SoC芯平台](http://www.SoC.Xin)
