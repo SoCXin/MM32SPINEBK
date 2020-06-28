@@ -14,7 +14,7 @@
 
 AES 硬件加速器使用 AES 算法可以对数据进行加密和解密。由 FIPS 定义 (FIPS PUB 197， 2001 November 26) 的高级加密标准 (AES) 加速器使用 128bit 或 192bit 或 256bit 密钥加密和解密 128bit 的数据块。默认情况下，电子密码本 (ECB) 被选中。密码分组链接 (CBC)、计算器模式 (CTR)、密文反馈模式 (CFB) 和输出反馈模式 (OFB) 也被该硬件支持。
 
-AES支持输入和输出数据的DMA传输(需要2个DMA通道)。
+AES支持输入和输出数据的DMA传输(需要2个DMA通道)。5路DMA可以用于主要的外设：UART、I2C、SPI、AES、ADC 、USB和TIMx。
 
 ### [资源收录](https://github.com/SoCXin/MM32L051)
 
