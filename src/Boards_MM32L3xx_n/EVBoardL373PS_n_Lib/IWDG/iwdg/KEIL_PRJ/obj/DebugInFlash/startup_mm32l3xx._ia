@@ -1,0 +1,6 @@
+--cpu Cortex-M3 -g --apcs=interwork 
+-I.\RTE\_projectgroup
+-ID:\Keil_v5\ARM\PACK\MindMotion\MM32L3xx_DFP\1.0.6\Device\MM32L3xx\Include
+-ID:\Keil_v5\ARM\CMSIS\Include
+--pd "__UVISION_VERSION SETA 527" --pd "MM32L373PS SETA 1"
+--list .\startup_mm32l3xx.lst --xref -o .\obj\debuginflash\startup_mm32l3xx.o --depend .\obj\debuginflash\startup_mm32l3xx.d "..\..\..\..\..\Device\MM32L3xx\Source\KEIL_StartAsm\startup_MM32L3xx.s"

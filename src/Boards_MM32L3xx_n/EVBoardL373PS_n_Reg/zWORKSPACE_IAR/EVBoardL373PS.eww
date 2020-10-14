@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK01_blink\IAR_PRJ\ManleyDK01_blink.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK02_key\IAR_PRJ\ManleyDK02_key.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK03_uart\IAR_PRJ\ManleyDK03_uart.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK04_exti\IAR_PRJ\ManleyDK04_exti.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK05_iwdg\IAR_PRJ\ManleyDK05_iwdg.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK06_wwdg\IAR_PRJ\ManleyDK06_wwdg.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK07_timer_interrupt\IAR_PRJ\ManleyDK07_timer_interrupt.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK08_pwm\IAR_PRJ\ManleyDK08_pwm.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK09_input_capture\IAR_PRJ\ManleyDK09_input_capture.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK10_TFT_LCD_display\IAR_PRJ\ManleyDK10_TFT_LCD_display.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK11_RTC_realtime\IAR_PRJ\ManleyDK11_RTC_realtime.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK13_ADC\IAR_PRJ\ManleyDK13_ADC.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK14_internal_temperature\IAR_PRJ\ManleyDK14_internal_temperature.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK15_DMA\IAR_PRJ\ManleyDK15_DMA.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK16_I2C_EEPROM\IAR_PRJ\ManleyDK16_I2C_EEPROM.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK17_SPI_FLASH\IAR_PRJ\ManleyDK17_SPI_FLASH.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK19_FLASH_simulate_EEPROM\IAR_PRJ\ManleyDK19_FLASH_simulate_EEPROM.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\ManleyDK21_USB\IAR_PRJ\ManleyDK21_USB.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

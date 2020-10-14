@@ -1,0 +1,8 @@
+--create ..\OBJ\output.lib
+..\obj\system_mm32l3xx.o
+..\obj\startup_mm32l3xx.o
+..\obj\test.o
+..\obj\delay.o
+..\obj\sys.o
+..\obj\uart.o
+..\obj\led.o
