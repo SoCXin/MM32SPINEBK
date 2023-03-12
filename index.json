@@ -1,0 +1,37 @@
+{
+    "type":"MCU",
+    "name":"MM32SPINEBK",
+    "title": "mindmotion MM32SPINEBK MCU",
+    "description":"mindmotion Motor MCU",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"Cortex-M0",
+        "Fmax":96,
+        "DMIPS": 90,
+        "CoreMark": 140
+    },
+    "manufacturer": {
+        "vendor":"mindmotion",
+        "homepage":"http://www.mindmotion.com.cn"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/MM32SPINEBK.git"
+    },
+    "version":"1.0.0",
+    "series":["MM32SPINEBK","MM32SPIN423C","MM32SPIN222C"],
+    "package":["QFN32"],
+    "peripheral": ["ADC","USART","SPI","I2C"],
+    "temp": [-40,85],
+    "volt": [1.7,5.5],
+    "ESD": {
+        "HBM": 4000,
+        "CDM": 500
+    },
+    "keywords": [
+        "Cortex-M0",
+        "mindmotion",
+        "ADC","I2C","SPI","USART"
+    ]
+}
+

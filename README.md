@@ -1,27 +1,24 @@
-﻿# [MM32L373](https://github.com/SoCXin/MM32L373)
+﻿# [MM32SPINEBK](https://doc.soc.xin/MM32SPINEBK)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
+* [mindmotion](http://www.mindmotion.com.cn/): [Cortex-M0](https://github.com/SoCXin/Cortex)
+* [L1R2](https://github.com/SoCXin/Level): 96 MHz , [￥5.33](https://item.szlcsc.com/5842749.html)
 
-#### [Vendor](https://github.com/SoCXin/Vendor)：[MindMotion](http://www.mindmotion.com.cn/)
-#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M3](https://github.com/SoCXin/CM3)
-#### [Level](https://github.com/SoCXin/Level)：96MHz
+## [简介](https://github.com/SoCXin/MM32SPINEBK/wiki)
 
-## [描述](https://github.com/SoCXin/MM32L373/wiki)
+[MM32SPINEBK](https://github.com/SoCXin/MM32SPINEBK)
 
-[MM32L373](https://github.com/SoCXin/MM32L373)
+### 关键参数
 
-[![sites](docs/MM32L373.png)](https://github.com/SoCXin/MM32L373)
+* 96 MHz Cortex-M0
+* 8KB SRAM + 128KB Flash
+* 12-bit ADC (3 Msps)
 
+## [资源收录](https://github.com/SoCXin)
 
-### [资源收录](https://github.com/SoCXin/MM32L373)
+* [参考资源](src/)
+* [参考文档](docs/)
+* [参考工程](project/)
 
-* [文档](docs/)
-* [资源](src/)
+## [选型建议](https://github.com/SoCXin/MM32SPINEBK)
 
-### [选型建议](https://github.com/SoCXin)
-
-* [MM32L373](https://github.com/SoCXin/MM32L373)
-* [MM32L062](https://github.com/SoCXin/MM32L062)
-* [MM32L073](https://github.com/SoCXin/MM32L073)
-
-###  [SoC芯平台](http://www.SoC.Xin)
+[MM32SPINEBK](https://item.szlcsc.com/5842749.html)
